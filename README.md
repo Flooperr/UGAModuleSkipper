@@ -11,3 +11,9 @@ Afterwards, run the script, click S on your keyboard to bypass the module timer 
 CTRL + SHIFT + F to close the program while it's running
 
 
+
+https://github.com/Flooperr/UGAModuleSkipper/assets/149349356/174a46d7-9eb1-4996-b4ac-b144f770d7e0
+
+
+
+
