@@ -2,7 +2,7 @@
 Python Script That Skips the Timer For UGA 101 Orientation Modules
 
 # HOW TO USE?
-Simply Download [ChromeDriver](https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/win64/ch)
+Simply Download [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/)
 
 Then, replace  'value':'ENTER COOKIE HERE' with the cookie of yourAuthCookie in the UGA 101 Modules Website. 
 
