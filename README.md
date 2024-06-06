@@ -1,2 +1,2 @@
 # UGAModuleSkipper
-Skips the Timer For UGA 101 Orientation Modules
+Python Script That Skips the Timer For UGA 101 Orientation Modules
