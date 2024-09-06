@@ -1,5 +1,5 @@
 # UGAModuleSkipper
-Python Script That Skips the Timer For UGA 101 Orientation Modules
+Python Script That Skips the Timer For UGA 101 Orientation Modules (THE TIMER IS WAY TOO LONG!!!!!)
 
 # HOW TO USE?
 Simply Download [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/)
